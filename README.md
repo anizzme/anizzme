@@ -13,7 +13,7 @@ If you are a recruiter or engineer reviewing my profile, here is where you shoul
 * **If you care about High-Concurrency Backend Architecture:** 
   Review my [Distributed AI Inference API](https://github.com/anizzme/fastapi-ai-backend). I decoupled heavy ML inference from the web server using Redis and Celery, cutting API blocking latency to under 50ms.
 * **If you care about Computer Vision & Deep Learning:** 
-  Review my [PCB Defect Detection](link-to-repo) repository, where I trained a PyTorch CNN to hit 94.8% validation accuracy on real-world manufacturing data.
+  Review my [PCB Defect Detection](https://github.com/anizzme/PCB-Defect-Detection-and-Classification-System/tree/anitha-final-pcb-project) repository, where I trained a PyTorch CNN to hit 94.8% validation accuracy on real-world manufacturing data.
 
 ### Tech Stack
 * **Backend:** Python, Go, FastAPI, REST/gRPC, PostgreSQL
