@@ -18,7 +18,7 @@ If you are a recruiter or engineer reviewing my profile, here is where you shoul
 ### Tech Stack
 * **Backend:** Python, Go, FastAPI, REST/gRPC, PostgreSQL
 * **AI/ML:** PyTorch, LangChain, AWS Bedrock, pgvector
-* **Infrastructure:** AWS, Terraform, Docker, Redis, Celery, Apache Kafka
+* **Infrastructure:** AWS, GCP, Terraform, Docker, Redis, Celery, Apache Kafka
 
 ### Contact
 * [LinkedIn](https://linkedin.com/in/anitha-b-441829261)
