@@ -1,12 +1,25 @@
-- 👋 Hi, I’m Anitha
-- 👀 I’m interested in Data Analytics, Machine Learning, Data Science and AI Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+# Hi, I'm Anitha.
 
-<!---
-anizzme/anizzme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Backend and ML Engineer focused on moving machine learning models out of research environments and into scalable production infrastructure. I specialize in high-throughput API design and multi-agent routing.
+
+Currently, I am building and scaling AI inference architectures using Python, Go, and AWS Bedrock. 
+
+### What to review first
+
+If you are a recruiter or engineer reviewing my profile, here is where you should look based on the architecture you are hiring for:
+
+* **If you care about Multi-Agent Systems & LLM Routing:** 
+  Review my [Multi-Agent Customer Support System](link-to-repo). It routes complex queries using deterministic prompting on AWS Bedrock rather than rigid visual builders, validated by a custom LLM-as-a-judge pipeline.
+* **If you care about High-Concurrency Backend Architecture:** 
+  Review my [Distributed AI Inference API](link-to-repo). I decoupled heavy ML inference from the web server using Redis and Celery, cutting API blocking latency to under 50ms.
+* **If you care about Computer Vision & Deep Learning:** 
+  Review my [PCB Defect Detection](link-to-repo) repository, where I trained a PyTorch CNN to hit 94.8% validation accuracy on real-world manufacturing data.
+
+### Tech Stack
+* **Backend:** Python, Go, FastAPI, REST/gRPC, PostgreSQL
+* **AI/ML:** PyTorch, LangChain, AWS Bedrock, pgvector
+* **Infrastructure:** AWS, Terraform, Docker, Redis, Celery, Apache Kafka
+
+### Contact
+* [LinkedIn](https://linkedin.com/in/anitha-b-441829261)
+* anithabaikani12@gmail.com
