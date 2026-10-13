@@ -16,7 +16,7 @@ If you are a recruiter or engineer reviewing my profile, here is where you shoul
   Review my [PCB Defect Detection](https://github.com/anizzme/circuitguard-pcb-defect-detection) repository, where I trained a PyTorch CNN to hit 94.8% validation accuracy on real-world manufacturing data.
 
 ### Tech Stack
-* **Backend:** Python, Go, FastAPI, REST/gRPC, PostgreSQL
+* **Backend:** Python, FastAPI, PostgreSQL
 * **AI/ML:** PyTorch, LangChain, AWS Bedrock, pgvector
 * **Infrastructure:** AWS, GCP, Terraform, Docker, Redis, Celery, Apache Kafka
 
