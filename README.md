@@ -1,6 +1,6 @@
 # Hi, I'm Anitha.
 
-I'm a Backend and ML Engineer focused on moving machine learning models out of research environments and into scalable production infrastructure. I specialize in high-throughput API design and multi-agent routing.
+I'm a Machine Learning and AI Engineer focussed on moving machine learning models out of research environments and into scalable production infrastructure. I specialize in high-throughput API design and multi-agent routing.
 
 Currently, I am building and scaling AI inference architectures using Python and AWS Bedrock. 
 
