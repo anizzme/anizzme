@@ -10,15 +10,15 @@ If you are a recruiter or engineer reviewing my profile, here is where you shoul
 
 * **If you care about Multi-Agent Systems & LLM Routing:** 
   Review my [Support Chatbot](https://github.com/anizzme/bedrock-agentcore-chatbot). It routes complex queries using deterministic prompting on AWS Bedrock rather than rigid visual builders, validated by a custom LLM-as-a-judge pipeline.
-* **If you care about High-Concurrency Backend Architecture:** 
-  Review my [Distributed AI Inference API](https://github.com/anizzme/fastapi-ai-backend). I decoupled heavy ML inference from the web server using Redis and Celery, cutting API blocking latency to under 50ms.
+* **If you care about Async Backend API's:** 
+  Review my [Distributed AI Inference API](https://github.com/anizzme/fastapi-ai-backend).An async FastAPI service that validates requests with Pydantic, routes them to a model, and stores every result in PostgreSQL through SQLAlchemy with commit and rollback. Currently working on tests, Docker and load testing.
 * **If you care about Computer Vision & Deep Learning:** 
   Review my [PCB Defect Detection](https://github.com/anizzme/circuitguard-pcb-defect-detection) repository, where I trained a PyTorch CNN to hit 94.8% validation accuracy on real-world manufacturing data.
 
 ### Tech Stack
 * **Backend:** Python, FastAPI, PostgreSQL
 * **AI/ML:** PyTorch, LangChain, AWS Bedrock, pgvector
-* **Infrastructure:** AWS, GCP, Terraform, Docker, Redis, Celery, Apache Kafka
+* **Infrastructure:** AWS, GCP, Docker
 
 ### Contact
 * [LinkedIn](https://linkedin.com/in/anitha-b-441829261)
